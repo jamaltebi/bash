@@ -1,0 +1,2 @@
+ your input_data ./notes.sh: line 22: syntax error near unexpected token `1'
+./notes.sh: line 22: `    echo "the input is empty, no input" > 1>&2'
